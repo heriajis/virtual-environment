@@ -37,6 +37,6 @@ python3 -m venv mygate
 source mygate/bin/activate
 ```
 
-kudune nang ngarep terminal ada kurunga (mygate)
+kudune nang ngarep terminal ada kurungan (mygate)
 
 Semoga dikasi jepe jepe boskuhh, sekarang farming, besok kita panen !!!!
