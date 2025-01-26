@@ -7,7 +7,7 @@ untuk bisa menjalankan python3 dalam virtual environment diperlukan langkah-lang
 
 # Membuat Virtual Environment
 
-##1. Install Python3 dulu bos biasane wes ana bos, cek dulu
+## 1. Install Python3 dulu bos biasane wes ana bos, cek dulu
 
 ```
 python3 --version
@@ -18,19 +18,19 @@ nek muncul versi skip, nek ora muncul install pake dibawah ini
 apt install python3 -y
 ```
 
-####2. install Venv dulu
+## 2. install Venv dulu
 
 ```
 sudo apt install python3-venv
 ```
 
-##3. Buat Virtual Environment
+## 3. Buat Virtual Environment
 
 ```
 python3 -m venv mygate
 ```
 
-##4. Aktivasi Virtual Environment
+## 4. Aktivasi Virtual Environment
 
 ```
 source mygate/bin/activate
