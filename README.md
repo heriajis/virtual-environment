@@ -5,7 +5,7 @@ Virtual environment in python3
 Jadi begini bos Toto
 untuk bisa menjalankan python3 dalam virtual environment diperlukan langkah-langkah sebagai berikut, ikutin aja bos, semoga jepe lalu kita makan nasi padang
 
-# Membuat Virtual Environment
+
 
 ## 1. Install Python3 dulu bos biasane wes ana bos, cek dulu
 
