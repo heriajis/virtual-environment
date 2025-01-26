@@ -7,7 +7,8 @@ untuk bisa menjalankan python3 dalam virtual environment diperlukan langkah-lang
 
 
 
-## 1. Install Python3 dulu bos biasane wes ana bos, cek dulu
+## 1. Install Python3
+cek dulu bos biasane wes ana bos, cek dulu pake ini
 
 ```
 python3 --version
