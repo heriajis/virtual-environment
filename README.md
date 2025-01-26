@@ -9,32 +9,32 @@ untuk bisa menjalankan python3 dalam virtual environment diperlukan langkah-lang
 
 1. Install Python3 dulu bos biasane wes ana bos, bisa skip bae
 
-'''
+```
 python3 --version
-'''
+```
 nek muncul skip, nek ora muncul install pake dibawah ini
 
-'''
+```
 apt install python3 -y
-'''
+```
 
 2. install Venv dulu
 
-'''
+```
 sudo apt install python3-venv
-'''
+```
 
 3. Buat Virtual Environment
 
-'''
+```
 python3 -m venv mygate
-'''
+```
 
 4. Aktivasi Virtual Environment
 
-'''
+```
 source mygate/bin/activate
-'''
+```
 
 kudune nang ngarep terminal ada kurunga (mygate)
 
